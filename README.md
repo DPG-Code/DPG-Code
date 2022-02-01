@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Daniel Prieto and i'm **✨ Front-end Developer ✨** and **graphic designer**.
 
-<!--
-**DPG-Code/DPG-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about _TECHNOLOGY_, especially _PROGRAMMING_ and _DESIGN_ since I am aware. I'm here to help make your idea real through my creativity, and solve your problems through my logical side.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
