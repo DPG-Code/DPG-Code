@@ -32,5 +32,5 @@ Passionate about TECHNOLOGY, especially PROGRAMMING and DESIGN since I am aware.
 ![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DPG-Code&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=F2D335&icon_color=F2D335&text_color=FFFFFF)
 </span>
 <span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DPG-Code&hide_border=true&theme=black-ice&background=3D3D3D&stroke=F2D335)
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DPG-Code&hide_border=true&theme=F2D335&background=3D3D3D&stroke=F2D335)
 </span>
