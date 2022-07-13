@@ -22,8 +22,12 @@ Passionate about TECHNOLOGY, especially PROGRAMMING and DESIGN since I am aware.
 - 🌱 I’m currently learning Next.JS
 - 📫 How to reach me: prietogaviriadaniel@gmail.com
 - 😄 Pronouns: Harry Potter
+<br>
+<br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DPG-Code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-prieto-gaviria-167077207//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dpg-code.vercel.app/)  
+⚡ Contact
+<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg' alt='linkedin' height='35' background-color='#fff'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-prieto-gaviria-167077207//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/googlecloud.svg' alt='website' height='35' color='white'>](https://dpg-code.vercel.app/)  
 <br>
 
 ## 📈 &nbsp;Some Github Stats ##
