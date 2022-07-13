@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Daniel Prieto
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Daniel Prieto</b>
 <br>
 
 #### I'm ⚡Front-end Developer⚡ and graphic designer.
@@ -18,9 +18,19 @@ Passionate about TECHNOLOGY, especially PROGRAMMING and DESIGN since I am aware.
 </p>
 <br>
 
-- 🔭 I’m currently working on many interesting things... 
-- 🌱 I’m currently learning Next.JS 
-- 📫 How to reach me: prietogaviriadaniel@gmail.com 
-- 😄 Pronouns: Harry Potter 
+- 🔭 I’m currently working on many interesting things...
+- 🌱 I’m currently learning Next.JS
+- 📫 How to reach me: prietogaviriadaniel@gmail.com
+- 😄 Pronouns: Harry Potter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/DPG-Code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-prieto-gaviria-167077207//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dpg-code.vercel.app/)  
+<br>
+
+## 📈 &nbsp;Some Github Stats ##
+<span align="left">
+
+![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DPG-Code&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=F2D335&icon_color=F2D335&text_color=FFFFFF)
+</span>
+<span align="right">
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DPG-Code&hide_border=true&theme=black-ice&background=3D3D3D&stroke=F2D335)
+</span>
