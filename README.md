@@ -3,8 +3,8 @@
 
 <!-- Links -->
 <div align="center">
-  <a href="https://dpg-code.vercel.app">Website</a> -
-  <a href="https://www.behance.net/danielprieto7">Behance</a>
+  <a href="https://dpg-code.vercel.app" target="_blank">Website</a> -
+  <a href="https://www.behance.net/danielprieto7" target="_blank">Behance</a>
 </div>
 
 <!-- Skills -->
