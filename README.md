@@ -10,6 +10,7 @@
 
 ## Skills
 <div align="left">
+  <b>JavaScript</b> •
   <b>TypeScript</b> •
   <b>React.JS</b> •
   <b>Svelte</b> •
