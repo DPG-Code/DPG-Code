@@ -12,11 +12,12 @@
 <div align="left">
   <b>JavaScript</b> •
   <b>TypeScript</b> •
+  <b>Node.JS</b> •
+  <b>Next.JS</b> •
   <b>React.JS</b> •
+  <b>Astro</b> •
   <b>Svelte</b> •
   <b>Tailwind</b> •
-  <b>Next.JS</b> •
-  <b>Astro</b> •
   <b>MongoDB</b> •
   <b>GraphQL</b> •
   <b>Prisma</b>
