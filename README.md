@@ -16,11 +16,11 @@
   <b>Next.JS</b> •
   <b>React.JS</b> •
   <b>Astro</b> •
+  <b>Svelte kit</b> •
   <b>Svelte</b> •
   <b>Tailwind</b> •
   <b>MongoDB</b> •
-  <b>GraphQL</b> •
-  <b>Prisma</b>
+  <b>GraphQL</b>
 </div>
 <br>
 <div align="left">
