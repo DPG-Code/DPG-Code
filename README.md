@@ -3,13 +3,15 @@
 <div align='center'>
   <samp>
     <a href='https://dpg-code.vercel.app'>Website</a> •
+    <a href='https://www.linkedin.com/in/daniel-prieto-dpg'>Linkedin</a> •
     <a href='https://www.behance.net/danielprieto7'>Behance</a> •
     <a href='https://twitter.com/DanielPriGa'>Twitter</a>
   </samp>
 </div>
 
-## Skills
+# SKILLS
 <div align="left">
+  <b>TECHNOLOGIES</b> :
   <b>JavaScript</b> •
   <b>TypeScript</b> •
   <b>Node.JS</b> •
@@ -24,7 +26,7 @@
 </div>
 <br>
 <div align="left">
-  <b>TEST</b> -
+  <b>TEST</b> :
   <b>Jest</b> •
   <b>Vitest</b> •
   <b>React Testing Library</b> •
