@@ -11,7 +11,7 @@
 
 # SKILLS
 <div align="left">
-  <b>TECHNOLOGIES</b> :
+  <b>TECH</b> :
   <b>JavaScript</b> •
   <b>TypeScript</b> •
   <b>Node.JS</b> •
