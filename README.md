@@ -21,8 +21,7 @@
   <b>Svelte kit</b> •
   <b>Svelte</b> •
   <b>Tailwind</b> •
-  <b>MongoDB</b> •
-  <b>GraphQL</b>
+  <b>MongoDB</b>
 </div>
 <br>
 <div align="left">
