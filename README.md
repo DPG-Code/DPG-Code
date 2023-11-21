@@ -9,9 +9,8 @@
   </samp>
 </div>
 
-# SKILLS
+# Languages and Tools
 <div align="left">
-  <b>TECH</b> :
   <b>JavaScript</b> •
   <b>TypeScript</b> •
   <b>Node.JS</b> •
@@ -25,7 +24,6 @@
 </div>
 <br>
 <div align="left">
-  <b>TEST</b> :
   <b>Jest</b> •
   <b>Vitest</b> •
   <b>React Testing Library</b> •
