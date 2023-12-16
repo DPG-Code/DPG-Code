@@ -20,7 +20,8 @@
   <b>Svelte kit</b> •
   <b>Svelte</b> •
   <b>Tailwind</b> •
-  <b>MongoDB</b>
+  <b>MongoDB</b> •
+  <b>SQL</b>
 </div>
 <br>
 <div align="left">
