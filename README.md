@@ -28,5 +28,6 @@
   <b>Jest</b> •
   <b>Vitest</b> •
   <b>React Testing Library</b> •
-  <b>Cypress</b>
+  <b>Cypress</b> •
+  <b>Playwright</b>
 </div>
