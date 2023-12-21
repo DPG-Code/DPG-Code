@@ -9,7 +9,7 @@
   </samp>
 </div>
 
-# Languages and Tools 🚀
+# Languages and tools 🚀
 <div align="left">
   <b>JavaScript</b> •
   <b>TypeScript</b> •
