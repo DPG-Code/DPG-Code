@@ -25,9 +25,9 @@
 </div>
 <br>
 <div align="left">
-  <b>Jest</b> •
-  <b>Vitest</b> •
-  <b>React Testing Library</b> •
-  <b>Cypress</b> •
-  <b>Playwright</b>
+  <span>Jest</span> •
+  <span>Vitest</span> •
+  <span>React Testing Library</span> •
+  <span>Cypress</span> •
+  <span>Playwright</span>
 </div>
