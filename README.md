@@ -17,9 +17,8 @@
   <b>Next.JS</b> •
   <b>React.JS</b> •
   <b>Astro</b> •
-  <b>Svelte kit</b> •
   <b>Svelte</b> •
-  <b>Tailwind</b> •
+  <b>Svelte kit</b> •
   <b>MongoDB</b> •
   <b>SQL</b>
 </div>
@@ -30,4 +29,14 @@
   <span>React Testing Library</span> •
   <span>Cypress</span> •
   <span>Playwright</span>
+</div>
+<div align="left">
+  <span>Tailwind</span> •
+  <span>Mongoose</span> •
+  <span>Express</span> •
+  <span>Express</span> •
+  <span>Prisma</span> •
+  <span>Algolia</span> •
+  <span>Pusher</span> •
+  <span>Stripe</span>
 </div>
