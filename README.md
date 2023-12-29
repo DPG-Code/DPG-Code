@@ -34,7 +34,6 @@
   <span>Tailwind</span> •
   <span>Mongoose</span> •
   <span>Express</span> •
-  <span>Express</span> •
   <span>Prisma</span> •
   <span>Algolia</span> •
   <span>Pusher</span> •
