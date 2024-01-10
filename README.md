@@ -24,19 +24,19 @@
 </div>
 <br>
 <div align="left">
-  <span>Jest</span> •
-  <span>Vitest</span> •
-  <span>React Testing Library</span> •
-  <span>Cypress</span> •
-  <span>Playwright</span>
+  <b>Jest</b> •
+  <b>Vitest</b> •
+  <b>React Testing Library</b> •
+  <b>Cypress</b> •
+  <b>Playwright</b>
 </div>
 <br>
 <div align="left">
-  <span>Tailwind</span> •
-  <span>Mongoose</span> •
-  <span>Express</span> •
-  <span>Prisma</span> •
-  <span>Algolia</span> •
-  <span>Pusher</span> •
-  <span>Stripe</span>
+  <b>Tailwind</b> •
+  <b>Mongoose</b> •
+  <b>Express</b> •
+  <b>Prisma</b> •
+  <b>Algolia</b> •
+  <b>Pusher</b> •
+  <b>Stripe</b>
 </div>
