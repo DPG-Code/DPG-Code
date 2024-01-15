@@ -22,6 +22,7 @@
   <b>MongoDB</b> •
   <b>SQL</b>
 </div>
+</br>
 <div align="left">
   <b>Jest</b> •
   <b>Vitest</b> •
@@ -29,6 +30,7 @@
   <b>Cypress</b> •
   <b>Playwright</b>
 </div>
+</br>
 <div align="left">
   <b>Tailwind</b> •
   <b>Mongoose</b> •
