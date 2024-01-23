@@ -11,7 +11,7 @@
 
 # Languages and tools
 <div align="left">
-  <b>JavaScript</b> •
+  - <b>JavaScript</b> •
   <b>TypeScript</b> •
   <b>Node.JS</b> •
   <b>Next.JS</b> •
@@ -24,7 +24,7 @@
 </div>
 </br>
 <div align="left">
-  <b>Jest</b> •
+  - <b>Jest</b> •
   <b>Vitest</b> •
   <b>React Testing Library</b> •
   <b>Cypress</b> •
@@ -32,7 +32,7 @@
 </div>
 </br>
 <div align="left">
-  <b>Tailwind</b> •
+  - <b>Tailwind</b> •
   <b>Mongoose</b> •
   <b>Express</b> •
   <b>Prisma</b> •
