@@ -9,34 +9,34 @@
   </samp>
 </div>
 
-# Languages and tools
+## 🔧 Technologies & Tools
 <div align="left">
-  - <b>JavaScript</b> •
-  <b>TypeScript</b> •
-  <b>Node.JS</b> •
-  <b>Next.JS</b> •
-  <b>React.JS</b> •
-  <b>Astro</b> •
-  <b>Svelte</b> •
-  <b>Svelte kit</b> •
-  <b>MongoDB</b> •
-  <b>SQL</b>
+  - <span>JavaScript</span> •
+  <span>TypeScript</span> •
+  <span>Node.JS</span> •
+  <span>Next.JS</span> •
+  <span>React.JS</span> •
+  <span>Astro</span> •
+  <span>Svelte</span> •
+  <span>Svelte kit</span> •
+  <span>MongoDB</span> •
+  <span>SQL</span>
 </div>
 </br>
 <div align="left">
-  - <b>Jest</b> •
-  <b>Vitest</b> •
-  <b>React Testing Library</b> •
-  <b>Cypress</b> •
-  <b>Playwright</b>
+  - <span>Jest</span> •
+  <span>Vitest</span> •
+  <span>React Testing Library</span> •
+  <span>Cypress</span> •
+  <span>Playwright</span>
 </div>
 </br>
 <div align="left">
-  - <b>Tailwind</b> •
-  <b>Mongoose</b> •
-  <b>Express</b> •
-  <b>Prisma</b> •
-  <b>Algolia</b> •
-  <b>Pusher</b> •
-  <b>Stripe</b>
+  - <span>Tailwind</span> •
+  <span>Mongoose</span> •
+  <span>Express</span> •
+  <span>Prisma</span> •
+  <span>Algolia</span> •
+  <span>Pusher</span> •
+  <span>Stripe</span>
 </div>
