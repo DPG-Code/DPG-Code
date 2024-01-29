@@ -11,32 +11,32 @@
 
 ## 🔧 Technologies & Tools
 <div align="left">
-  - <span>JavaScript</span> •
-  <span>TypeScript</span> •
-  <span>Node.JS</span> •
-  <span>Next.JS</span> •
-  <span>React.JS</span> •
-  <span>Astro</span> •
-  <span>Svelte</span> •
-  <span>Svelte kit</span> •
-  <span>MongoDB</span> •
+  •  <span>JavaScript</span> -
+  <span>TypeScript</span> -
+  <span>Node.JS</span> -
+  <span>Next.JS</span> -
+  <span>React.JS</span> -
+  <span>Astro</span> -
+  <span>Svelte</span> -
+  <span>Svelte kit</span> -
+  <span>MongoDB</span> -
   <span>SQL</span>
 </div>
 </br>
 <div align="left">
-  - <span>Jest</span> •
-  <span>Vitest</span> •
-  <span>React Testing Library</span> •
-  <span>Cypress</span> •
+  •  <span>Jest</span> -
+  <span>Vitest</span> -
+  <span>React Testing Library</span> -
+  <span>Cypress</span> -
   <span>Playwright</span>
 </div>
 </br>
 <div align="left">
-  - <span>Tailwind</span> •
-  <span>Mongoose</span> •
-  <span>Express</span> •
-  <span>Prisma</span> •
-  <span>Algolia</span> •
-  <span>Pusher</span> •
+  •  <span>Tailwind</span> -
+  <span>Mongoose</span> -
+  <span>Express</span> -
+  <span>Prisma</span> -
+  <span>Algolia</span> -
+  <span>Pusher</span> -
   <span>Stripe</span>
 </div>
