@@ -18,7 +18,6 @@
   <span>React.JS</span> -
   <span>Astro</span> -
   <span>Svelte</span> -
-  <span>Svelte kit</span> -
   <span>MongoDB</span> -
   <span>SQL</span>
 </div>
