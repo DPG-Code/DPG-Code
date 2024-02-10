@@ -9,7 +9,7 @@
   </samp>
 </div>
 
-## Technologies & Tools
+## Technologies & Tools!
 <div align="left">
   •  <span>JavaScript</span> -
   <span>TypeScript</span> -
