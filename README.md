@@ -39,3 +39,7 @@
   <span>Pusher</span> -
   <span>Stripe</span>
 </div>
+<div align="left">
+  •  <span>Graphic design</span> -
+  <span>UI</span>
+</div>
