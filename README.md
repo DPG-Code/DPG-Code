@@ -41,6 +41,7 @@
 </div>
 </br>
 <div align="left">
-  •  <span>Graphic/Web design</span> -
+  •  <span>Graphic design</span> -
+  <span>Web design</span> -
   <span>UI</span>
 </div>
