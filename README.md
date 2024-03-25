@@ -10,38 +10,12 @@
 </div>
 
 ## Technologies & Tools!
-<div align="left">
-  •  <span>JavaScript</span> -
-  <span>TypeScript</span> -
-  <span>Node.JS</span> -
-  <span>Next.JS</span> -
-  <span>React.JS</span> -
-  <span>Astro</span> -
-  <span>Svelte</span> -
-  <span>MongoDB</span> -
-  <span>SQL</span>
-</div>
-</br>
-<div align="left">
-  •  <span>Jest</span> -
-  <span>Vitest</span> -
-  <span>React Testing Library</span> -
-  <span>Cypress</span> -
-  <span>Playwright</span>
-</div>
-</br>
-<div align="left">
-  •  <span>Tailwind</span> -
-  <span>Mongoose</span> -
-  <span>Express</span> -
-  <span>Prisma</span> -
-  <span>Algolia</span> -
-  <span>Pusher</span> -
-  <span>Stripe</span>
-</div>
-</br>
-<div align="left">
-  •  <span>Graphic design</span> -
-  <span>Web design</span> -
-  <span>UI</span>
-</div>
+```bash
+•  JavaScript - TypeScript - Node.JS - Next.JS - React.JS - Astro - Svelte - MongoDB - SQL
+
+•  Jest - Vitest - React Testing Library - Cypress - Playwright
+
+•  Tailwind - Mongoose - Express - Prisma - Algolia - Pusher - Stripe
+
+•  Graphic design - Web design - UI
+```
