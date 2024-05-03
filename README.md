@@ -11,7 +11,9 @@
 
 ## Technologies & Tools!
 ```bash
-•  JavaScript - TypeScript - Node.JS - Python - Next.JS - React.JS - Astro - Svelte - MongoDB - Supabase - SQL
+•  JavaScript - TypeScript - Node.JS - Python - Next.JS - React.JS - Astro - Svelte
+
+•  MongoDB - Supabase - SQL
 
 •  Jest - Vitest - React Testing Library - Cypress - Playwright
 
