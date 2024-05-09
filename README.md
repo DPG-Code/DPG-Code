@@ -15,9 +15,11 @@
 
 •  MongoDB - Supabase - SQL
 
+•  Mongoose - Express - Prisma - Algolia - Pusher - Stripe
+
 •  Jest - Vitest - React Testing Library - Cypress - Playwright
 
-•  Tailwind - Mongoose - Express - Prisma - Algolia - Pusher - Stripe
+•  CSS - Tailwind - NextUI - Shadcn/ui
 
-•  Graphic design - Web design - UI
+•  Graphic design - Web design
 ```
