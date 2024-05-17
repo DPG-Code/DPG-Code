@@ -11,7 +11,7 @@
 
 ## Technologies & Tools!
 ```bash
-•  JavaScript - TypeScript - Node.JS - Python - Next.JS - React.JS - Astro - Svelte
+•  JavaScript - TypeScript - React.JS - Astro - Svelte - Node.JS - Python - Next.JS - SvelteKit
 
 •  MongoDB - Supabase - SQL/lite
 
