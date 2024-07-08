@@ -13,7 +13,7 @@
 ```bash
 •  JavaScript - TypeScript - React.JS - Next.JS - Astro - Svelte - Node.JS - Python
 
-•  Supabase - MongoDB - SQL
+•  Supabase - MongoDB - SQL/Lite
 
 •  Mongoose - Express - Prisma - Algolia - Pusher - Stripe
 
