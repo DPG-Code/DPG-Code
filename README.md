@@ -21,5 +21,5 @@
 
 •  CSS - Tailwind - NextUI - Shadcn/ui
 
-•  Graphic and Web design - UI/UX
+•  Graphic and Web design - UI
 ```
