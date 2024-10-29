@@ -19,7 +19,7 @@
 
 •  Jest - Vitest - React Testing Library - Cypress - Playwright
 
-•  CSS - Tailwind - NextUI - Shadcn/ui
+•  CSS - Tailwind
 
 •  Graphic and Web design - UI
 ```
