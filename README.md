@@ -21,5 +21,5 @@
 
 •  CSS - Tailwind
 
-•  Graphic and Web design
+•  Graphic and Web design - UI
 ```
